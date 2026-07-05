@@ -58,7 +58,7 @@ header img {
 
 .Products h1{
   margin-bottom: 30px;
-    color: whitesmoke;
+    color: white;
 }
 
 .card{
@@ -148,3 +148,5 @@ footer a:hover {
     padding: 30px 40px;
     padding-bottom: 40px;
   }
+
+}
