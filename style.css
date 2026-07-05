@@ -58,6 +58,7 @@ header img {
 
 .Products h1{
   margin-bottom: 30px;
+    color: whitesmoke;
 }
 
 .card{
@@ -134,3 +135,16 @@ footer a {
 footer a:hover {
   background-color: #555;
 }
+
+@media (max-width: 650px) {
+    header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: navy;
+    color: white;
+    padding: 30px 40px;
+    padding-bottom: 40px;
+  }
